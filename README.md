@@ -83,6 +83,12 @@
                 <li> Kotak terakhir bewarna hijau ditujukan kepada sampah organik. Sampah ini nantinya akan dijadikan pupuk ataupun <i>ecoenzym</i>. Contohnya: Daun dan sisa makanan.</li>
                     </ul><p>
                 Seperti kegiatan kedua. Siswa diajak untuk memiliki tanggungjawab kepada sampah yang dihasilkan yaitu cara membuangnya. Siswa sering diajarkan didalam kelas untuk membuang sampah sesuai jenisnya sehingga dapat digunakan lagi menurut jenisnya dan tak langsung dibuang ke tempat pembuangan akhir(TPA)
-            </p>
+            </p><P style="text-align: center;">
+                "信心、毅力、勇氣三者具備，
+                則天下沒有做不成的事。"<BR>
+               <B> "Dengan keyakinan, keuletan, dan keberanian, tidak ada yang tidak
+                berhasil dilakukan di dunia ini."</B><br>
+                <I>~ Master Cheng Yen ~</I>
+            </P>
         <br>
     </body></html>
