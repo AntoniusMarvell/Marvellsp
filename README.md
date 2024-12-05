@@ -22,9 +22,9 @@
 
          .nav ul li a{
             color: antiquewhite;
-            padding: 0px;
+            padding: 20px;
             text-decoration:none;
-            align-items: center; 
+            align-items:center; 
          }
          .nav ul li a:hover{
             color: black;
