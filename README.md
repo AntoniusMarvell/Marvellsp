@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <style>
         body{background-image: url(back3.jpg);
