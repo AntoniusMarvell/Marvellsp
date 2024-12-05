@@ -22,7 +22,7 @@
 
          .nav ul li a{
             color: antiquewhite;
-            padding: 20px;
+            padding: 0px;
             text-decoration:none;
             align-items: center; 
          }
@@ -41,7 +41,7 @@
                 <li><a href="https://cintakasihtzuchi.sch.id/" target="_blank">Sekolah</a></li>
             </ul>
         </div>
-        <br><br><br>
+    
         <h1 style="text-align: center;" >Berawal Dari Dini Hari</h1>
         <p style="text-align: justify;">
             Bumi pada saat ini sedang menghadapi masalah besar yang bahkan manusia tidak menyadarinya. Yap, salah satu dari masalah tersebut adalah <b>SAMPAH</b>. Menurut Kompas.com, <B>Indonesia diperkirakan menghasilkan 64 juta ton</B> sampah setiap tahunnya.
